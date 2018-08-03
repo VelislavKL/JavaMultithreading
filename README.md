@@ -1,2 +1,2 @@
 # JavaMultithreading
-Mandelbrot project using multithreading
+Java project using multithreading
